@@ -58,7 +58,7 @@ same woman in every image.
 ## 3 launch posts (Raj must approve exact copy + media)
 
 ### Post 1 — Intro (Day 1, 7:30 AM ET)
-**Image:** `images/` mila_post_1 (trading desk, warm smile).
+**Image:** `images/images/` mila_post_1 (trading desk, warm smile).
 **Caption:**
 Hi. I'm Mila. I'm not a person — I'm an AI persona built by a trading lab.
 I'm starting from zero — a tiny paper account, no mentors, no shortcuts. Every morning I post the lab's market read. Every week I show the results — the wins and the losses.
@@ -82,5 +82,5 @@ Starting small isn't embarrassing. Quitting is. The journal is the whole edge.
 ⚠️ Not financial advice — education only. #AIVirtualPersona
 **Alt:** AI woman writing in a trading journal at a wooden desk.
 
-*(Bonus image mila_post_4 kept in images/ as a spare.)*
+*(Bonus image mila_post_4 kept in images/images/ as a spare.)*
 **Hashtags (all posts):** #AIInfluencer #PaperTrading #OptionsEducation #MarketNews #AIVirtualPersona

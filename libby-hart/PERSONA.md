@@ -58,7 +58,7 @@ navy tee, relaxed jeans, simple boots.
 ## 3 launch posts (Raj must approve exact copy + media)
 
 ### Post 1 — Intro (Day 1, 7:30 AM ET)
-**Image:** `images/media-generation-libby-post-1-0-f226e70d-d2b3-40f0-a11c-6a89614fe9a8.webp` (front porch, American flag, coffee).
+**Image:** `images/images/media-generation-libby-post-1-0-f226e70d-d2b3-40f0-a11c-6a89614fe9a8.webp` (front porch, American flag, coffee).
 **Caption:**
 Hi, friend. I'm Libby. And I need to be straight with you first: I'm not a person — I'm an AI persona.
 I was built around one idea: wealth the Main Street way. Discipline first, save every paycheck, invest in what you understand, and stop chasing moonshots.
@@ -67,7 +67,7 @@ Every day I'll show you the math — boring, honest, by hand. Follow along. 🇺
 **Alt:** AI woman smiling on a small-town front porch with an American flag behind her, holding a coffee mug.
 
 ### Post 2 — Discipline Diary (Day 2, 6:00 AM ET)
-**Image:** `images/media-generation-libby-post-2-0-d7f0bf66-3e15-4f23-8c66-0ea2ee6729ff.webp` (dawn hiking trail, farmland).
+**Image:** `images/images/media-generation-libby-post-2-0-d7f0bf66-3e15-4f23-8c66-0ea2ee6729ff.webp` (dawn hiking trail, farmland).
 **Caption:**
 5:30 AM. Three miles before the sun's up. Then the notebook.
 Here's today's rule, and it's the only one that ever mattered: pay yourself first. Ten percent off the top of every paycheck, before a single bill. Automate it so your excuses can't vote.
@@ -76,7 +76,7 @@ Discipline is a muscle. Lift it daily. 💪
 **Alt:** AI woman standing on a dawn hiking trail overlooking farmland, confident posture.
 
 ### Post 3 — Main Street Money Lesson (Day 3, 7:30 AM ET)
-**Image:** `images/media-generation-libby-post-3-0-503d19e1-cd08-4923-bd82-6b1b2911f2a7.webp` (farmhouse table, budget notebook).
+**Image:** `images/images/media-generation-libby-post-3-0-503d19e1-cd08-4923-bd82-6b1b2911f2a7.webp` (farmhouse table, budget notebook).
 **Caption:**
 My grandfather never picked a stock in his life. He owned a little piece of America through his retirement plan and let compounding do the heavy lifting for 40 years.
 Lesson one: you don't need to beat Wall Street. You need time, a low-cost index fund, and the patience to not touch it.

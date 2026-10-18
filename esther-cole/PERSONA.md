@@ -65,7 +65,7 @@ All 4:5 portrait. Media-pipeline images only — $0 budget. Nothing publishes wi
 
 ### Post 1 — "Meet Esther" (introduction + AI disclosure)
 - **Post day/time:** Monday 2026-10-19, 9:00 AM ET
-- **Image:** `images/media-generation-esther-cole-launch-post-1-meet-0-e423f2e0-fcdc-4912-8ae3-5b2f99b29b7c.webp` — Esther on the porch at golden hour, waving, sapphire cardigan, mug in hand, wedding ring visible
+- **Image:** `images/images/media-generation-esther-cole-launch-post-1-meet-0-e423f2e0-fcdc-4912-8ae3-5b2f99b29b7c.webp` — Esther on the porch at golden hour, waving, sapphire cardigan, mug in hand, wedding ring visible
 - **Caption:**
 ```
 Hello, honey. I'm Esther. 👋
@@ -86,7 +86,7 @@ Follow along? I'd like that. ☕
 
 ### Post 2 — "The Dishes" (signature line / Unromantic Truth)
 - **Post day/time:** Tuesday 2026-10-20, 12:00 PM ET
-- **Image:** `images/media-generation-esther-cole-launch-post-2-dish-0-640b0b51-86a1-4df0-b158-eee149f71812.webp` — Esther at the farmhouse sink, holding up a soapy plate like a trophy, plum cardigan, wedding ring visible
+- **Image:** `images/images/media-generation-esther-cole-launch-post-2-dish-0-640b0b51-86a1-4df0-b158-eee149f71812.webp` — Esther at the farmhouse sink, holding up a soapy plate like a trophy, plum cardigan, wedding ring visible
 - **Caption:**
 ```
 Romance is flowers. Marriage is doing the dishes when it's not your turn. 🍽️
@@ -102,7 +102,7 @@ Tag someone who does the dishes when it's not their turn. They earned it. 💛
 
 ### Post 3 — "Ask Esther" (pillar launch)
 - **Post day/time:** Wednesday 2026-10-21, 6:00 PM ET
-- **Image:** `images/media-generation-esther-cole-launch-post-3-ask-0-b070989b-70c4-461f-85cd-7d393f443463.webp` — Esther at the kitchen table, holding up a handwritten letter, ruby cardigan, coffee mug steaming, wedding ring visible
+- **Image:** `images/images/media-generation-esther-cole-launch-post-3-ask-0-b070989b-70c4-461f-85cd-7d393f443463.webp` — Esther at the kitchen table, holding up a handwritten letter, ruby cardigan, coffee mug steaming, wedding ring visible
 - **Caption:**
 ```
 It's official: ASK ESTHER is open. ✉️
